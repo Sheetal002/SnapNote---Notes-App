@@ -10,3 +10,9 @@ Key Features:
 2. Java Servlets: The application leverages Java Servlets to handle HTTP requests and responses, ensuring efficient communication between the client-side and the server-side.
 3. Hibernate ORM: The app utilizes Hibernate, a powerful Object-Relational Mapping (ORM) framework, to simplify database operations and provide an abstraction layer for interacting with the MySQL database.
 4. MySQL Database: The application utilizes MySQL as the database management system, offering robust data storage and retrieval capabilities for managing user notes securely.
+
+Screenshots:
+![image](https://github.com/Sheetal002/SnapNote---Notes-App/assets/104828396/69006269-ed62-4cc3-ae9b-6a03105df606)
+![image](https://github.com/Sheetal002/SnapNote---Notes-App/assets/104828396/aba2d9ce-1cbd-42fb-b440-681fc4862548)
+![image](https://github.com/Sheetal002/SnapNote---Notes-App/assets/104828396/50690017-b86e-4885-a2b7-43b27c61f09b)
+![image](https://github.com/Sheetal002/SnapNote---Notes-App/assets/104828396/90dc9242-2b69-4c0f-b65c-3bf95173059f)
