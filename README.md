@@ -14,5 +14,5 @@ Key Features:
 Screenshots:
 ![image](https://github.com/Sheetal002/SnapNote---Notes-App/assets/104828396/69006269-ed62-4cc3-ae9b-6a03105df606)
 ![image](https://github.com/Sheetal002/SnapNote---Notes-App/assets/104828396/aba2d9ce-1cbd-42fb-b440-681fc4862548)
-![image](https://github.com/Sheetal002/SnapNote---Notes-App/assets/104828396/50690017-b86e-4885-a2b7-43b27c61f09b)
+![image](https://github.com/Sheetal002/SnapNote---Notes-App/assets/104828396/4ea2a130-bea3-4e7a-b45d-08c23c3b3f6f)
 ![image](https://github.com/Sheetal002/SnapNote---Notes-App/assets/104828396/90dc9242-2b69-4c0f-b65c-3bf95173059f)
